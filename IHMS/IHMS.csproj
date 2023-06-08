@@ -39,6 +39,11 @@
     <Content Remove="C:\Users\iSpan\.nuget\packages\bootstrap\5.3.0\contentFiles\any\any\wwwroot\css\bootstrap.rtl.css.map" />
     <Content Remove="C:\Users\iSpan\.nuget\packages\bootstrap\5.3.0\contentFiles\any\any\wwwroot\css\bootstrap.rtl.min.css" />
     <Content Remove="C:\Users\iSpan\.nuget\packages\bootstrap\5.3.0\contentFiles\any\any\wwwroot\css\bootstrap.rtl.min.css.map" />
+    <Content Remove="wwwroot\vendor\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="wwwroot\vendor\.editorconfig" />
   </ItemGroup>
 
   <ItemGroup>
@@ -48,6 +53,7 @@
     <None Include="wwwroot\img\undraw_profile_2.svg" />
     <None Include="wwwroot\img\undraw_profile_3.svg" />
     <None Include="wwwroot\img\undraw_rocket.svg" />
+    <None Include="wwwroot\vendor\.editorconfig" />
     <None Include="wwwroot\vendor\bootstrap\js\bootstrap.bundle.js" />
     <None Include="wwwroot\vendor\bootstrap\js\bootstrap.bundle.js.map" />
     <None Include="wwwroot\vendor\bootstrap\js\bootstrap.bundle.min.js" />
